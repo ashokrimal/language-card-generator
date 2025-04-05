@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ashokrimal/language-card-generator#readme",
   "dependencies": {
+    "@vercel/node": "^5.1.14",
     "express": "^5.1.0",
     "node-fetch": "^3.3.2"
   },
