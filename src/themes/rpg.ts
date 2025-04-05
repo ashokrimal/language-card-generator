@@ -1,0 +1,1 @@
+// Placeholder for RPG theme render logic

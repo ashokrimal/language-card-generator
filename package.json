@@ -1,0 +1,32 @@
+{
+  "name": "language-card-generator",
+  "version": "1.0.0",
+  "description": "A dynamic, customizable language card generator that showcases your GitHub activity in various thematic styles, including Solo Leveling, RPG XP Bar, and more. This project is built with TypeScript, Express, and Node.js, integrating the GitHub REST API to fetch and display language statistics from your repositories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashokrimal/language-card-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashokrimal/language-card-generator/issues"
+  },
+  "homepage": "https://github.com/ashokrimal/language-card-generator#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.14.0",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.8.3"
+  }
+}
