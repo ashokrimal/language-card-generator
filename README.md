@@ -1,8 +1,10 @@
 
-
+<a name="readme-top" id="readme-top" ></a>
+	
 # Language Card Generator
 
 A dynamic, customizable language card generator that showcases your GitHub activity in various thematic styles, including Solo Leveling, RPG XP Bar, and more. This project is built with TypeScript, Express, and Node.js, integrating the GitHub REST API to fetch and display language statistics from your repositories.
+
 
 ## Features
  •	Language Stats Display: Fetches your top programming languages used across all repositories.
@@ -69,6 +71,7 @@ Thanks goes to these wonderful people for contributing to this project:
 
 
 
- <p align="right"><a href="#readme-top"> <img src="![image](https://github.com/user-attachments/assets/d6308ac9-9afc-46fe-ac1e-6484893f8cad)
-" > </a></p>
+ <p  align="right"><a href="#readme-top"> <img src="https://cdn.simpleicons.org/upptime/2496ED" width="30" /> </a></p>
+
+
    	
